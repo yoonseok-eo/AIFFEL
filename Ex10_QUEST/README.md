@@ -70,4 +70,7 @@ plt.show()
 ```python
 # 코드 리뷰 시 참고한 링크가 있다면 링크와 간략한 설명을 첨부합니다.
 # 코드 리뷰를 통해 개선한 코드가 있다면 코드와 간략한 설명을 첨부합니다.
+
+# pixellib 라이브러리를 활용한 instance segmentation 하는 방법
+# https://pixellib.readthedocs.io/en/latest/Image_instance.html
 ```
